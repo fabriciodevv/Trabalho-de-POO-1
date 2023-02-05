@@ -1,0 +1,69 @@
+package questao2;
+
+public class Evento {
+    
+				//titulo , //paises
+  private String quartaf, pais2, pais1;
+  private double notaperder, notaempate, notaganha;
+ private Resultado resultado; 
+ 
+	public Resultado getResultado() {
+	return resultado;
+}
+
+public void setResultado(Resultado resultado) {
+	this.resultado = resultado;
+}
+
+
+	public double getNotaperder() {
+	return notaperder;
+}
+
+public void setNotaperder(double notaperder) {
+	this.notaperder = notaperder;
+}
+
+public double getNotaempate() {
+	return notaempate;
+}
+
+public void setNotaempate(double notaempate) {
+	this.notaempate = notaempate;
+}
+
+public double getNotaganha() {
+	return notaganha;
+}
+
+public void setNotaganha(double notaganha) {
+	this.notaganha = notaganha;
+}
+
+	public Evento(String quartaf, String pais1, String pais2, double notaperder, double notaempate, double notaganha) {
+		super();
+		this.quartaf = quartaf;
+		this.pais1 = pais1;
+		this.pais2 = pais2;
+		this.notaperder = notaperder;
+		this.notaempate = notaempate;
+		this.notaganha = notaganha;
+		
+		
+		
+		
+	}
+
+	
+
+
+
+
+
+   
+       
+
+        
+
+    }
+

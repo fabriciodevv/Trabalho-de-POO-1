@@ -1,0 +1,26 @@
+package br.uern.di.poo.unidade1.construcao;
+
+
+
+public class inicio {
+	
+	public static void main(String[] args) {
+		
+	
+	public void valorfinal(Porta Porta) {
+		double valorinstalacao = Calcula.calculaservico(Porta);
+		System.out.println("valor da porta: " + Porta.calculapreco());
+		System.out.println("Valor da instalação: ");
+		System.out.println(valorinstalacao);
+	}
+		Porta Porta1 = new Porta();
+		Porta Porta2 = new Porta();
+		Porta Porta3 = new Porta();
+		Porta Porta4 = new Porta();
+		
+		Porta1.exibeporta();
+		valorfinal(porta1);
+	
+
+}
+}

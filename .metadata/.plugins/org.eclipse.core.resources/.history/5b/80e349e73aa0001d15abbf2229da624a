@@ -1,0 +1,37 @@
+package questao2;
+
+public class Evento {
+    
+
+  private String quartaf;
+  private String pais1;
+  private String pais2;
+  private double notaperder;
+  private  double notaempate;
+  double notaganha;
+      
+	public Evento(String quartaf, String pais1, String pais2, double notaperder, double notaempate, double notaganha) {
+		super();
+		this.quartaf = quartaf;
+		this.pais1 = pais1;
+		this.pais2 = pais2;
+		this.notaperder = notaperder;
+		this.notaempate = notaempate;
+		this.notaganha = notaganha;
+		
+		
+		
+		
+	}  
+
+
+
+
+
+   
+       
+
+        
+
+    }
+

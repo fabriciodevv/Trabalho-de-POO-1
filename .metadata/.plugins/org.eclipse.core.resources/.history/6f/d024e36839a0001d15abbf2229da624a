@@ -1,0 +1,11 @@
+package questao2;
+
+public class Aposta {
+
+	Evento Qf;
+	double resultt1;
+	double vaposta;
+	
+	
+	
+}

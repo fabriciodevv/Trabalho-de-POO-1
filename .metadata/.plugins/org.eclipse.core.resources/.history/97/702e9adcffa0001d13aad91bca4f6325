@@ -1,0 +1,10 @@
+package br.uern.di.poo.unidade1.construcao;
+
+public class teste {
+
+	public static void main(String[] args) {
+		System.out.println("olá");
+
+	}
+
+}

@@ -1,0 +1,43 @@
+package fabricio;
+
+import java.util.Scanner;
+
+public class Q1_A{
+public static void main(String[] args) {
+int y = 0;
+    Scanner ler = new Scanner(System.in);
+
+//atributos:
+String palavra;
+int tam;
+
+
+do {
+
+System.out.println("Digite uma palavra de 5 letras");
+palavra = ler.next();
+ler.close();
+tam = palavra.length();
+
+if(tam == 5){
+	char palavr[]= palavra.toCharArray();
+	for (int i = 0;i < tam;i++) {
+		for(int j=0; j< tam;j++) {
+			for(int x =0;x<tam;x++) {
+				System.out.print(palavr[i]);
+				
+			System.out.print(palavr[j]);
+				
+		    System.out.print(palavr[x]);
+				
+		System.out.println("");
+			}
+		}
+	}
+}
+else{
+    System.out.println("Erro, Digite uma palavra com 5 letras.");
+}
+	}while(y!=1);
+}
+}

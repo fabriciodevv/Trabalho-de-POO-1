@@ -1,0 +1,15 @@
+package br.uern.di.poo.unidade1.construcao;
+
+
+public class Calcula {
+	
+	public static double calculaservico() {
+	 final double pluxo = 0.1;
+	 final double installmetro = 70.0;
+	 final double installpivotante = 250; 
+	 double vtotal;
+	
+	 vtotal =+  Porta.getAlt()*Porta.getLarg();
+return vtotal;
+}
+}

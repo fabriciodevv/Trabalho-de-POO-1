@@ -1,0 +1,23 @@
+package src.atividade.Questao2;
+
+public class Evento {
+    
+    public static void main(String[] args) {
+       private String quartaf;
+        private String pais1;
+       private String pais2;
+      private double notaperder;
+     private  double notaempate;
+      double notaganha;  
+
+
+
+
+
+   
+       
+
+        
+
+    }
+}

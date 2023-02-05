@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="questao2.Resultado"/>
+    <fullyQualifiedTypeName name="questao2.Evento"/>
+    <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
+    <fullyQualifiedTypeName name="javax.swing.LayoutStyle.ComponentPlacement"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicInternalFrameTitlePane.IconifyAction"/>
+    <fullyQualifiedTypeName name="br.uern.di.poo.unidade1.construcao.Porta"/>
+    <fullyQualifiedTypeName name="br.uern.di.poo.unidade1.construcao.Calcula"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="br.uern.di.poo.unidade1.construcao.tipoportas"/>
+</qualifiedTypeNameHistroy>

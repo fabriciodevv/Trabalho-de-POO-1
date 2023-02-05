@@ -1,0 +1,20 @@
+package questao2;
+
+public class Aposta {
+
+	Evento Qf;
+	Resultado resultt1;
+	double vaposta;
+	
+	
+	public Aposta(Evento qf, Resultado resultt1, double vaposta) {
+		super();
+		Qf = qf;
+		this.resultt1 = resultt1;
+		this.vaposta = vaposta;
+		
+	}
+	
+	
+	
+}

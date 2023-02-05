@@ -1,0 +1,10 @@
+import java.awt.desktop.PrintFilesEvent;
+
+public class string {
+
+	public static void main(String[] args) {
+		println("hello word");
+
+	}
+
+}

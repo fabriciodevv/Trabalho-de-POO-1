@@ -1,0 +1,15 @@
+import java.awt.desktop.PrintFilesEvent;
+
+public class string {
+
+	public static void main(String[] args) {
+		println("hello word");
+
+	}
+
+	private static void println(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
